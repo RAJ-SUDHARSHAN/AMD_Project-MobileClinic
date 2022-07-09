@@ -1,6 +1,6 @@
-## AED_PROJECT - MOBILE CLINIC
+## AMD_PROJECT - MOBILE CLINIC
 
-# Hospital On Wheels
+# _Hospital On Wheels_
 
 
 Mobile Clinic System was a project that I developed during my Application Modelling and Design course at Northeastern University.
